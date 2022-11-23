@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Added Pin To Net: NetName=Net*A1_0 Pin=U1-2
+Added Net: Name=Net*A1_0
+Added Pin To Net: NetName=Net*A1_1 Pin=U1-3
+Added Net: Name=Net*A1_1
