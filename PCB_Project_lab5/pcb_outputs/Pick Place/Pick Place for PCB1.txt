@@ -1,0 +1,20 @@
+Altium Designer Pick and Place Locations
+C:\Git\pod-lab\PCB_Project_lab5\Project Outputs for Free Documents\Pick Place\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       28.11.22
+Time:       00:00
+Revision:   50206f960017ed191f1875e2f8f8e6be63e59800
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer       Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                                  
+R1         20K                TopLayer    RESC2012X65N           1975.000      4138.189      270      "RN 0805 20K 0.1% 10PPM 1KRL"                                
+R2         open               TopLayer    RESC2012X65N           2070.000      4385.000      270      open                                                         
+C1         10nF               TopLayer    CAPC2012X140N          1485.000      4345.000      90       "Cap Ceramic 10nF"                                           
+U1         M24LR64-RMN6/2     BottomLayer SOIC127P600X175-8N     1765.000      4335.000      0        "64 Kbit EEPROM"                                             
+J1         TSM-105-02-S-SV    TopLayer    SAMTEC_TSM-105-02-S-SV 1640.000      4762.520      180      "Conn Unshrouded Header HDR 5 POS 2.54mm Solder ST SMD Tube" 
+J2         TSM-102-02-S-SV    TopLayer    SAMTEC_TSM-102-02-S-SV 2050.000      4762.520      0        "Conn Unshrouded Header HDR 2 POS 2.54mm Solder ST SMD T/R"  
+A1         "Antena 13.56 Mhz" TopLayer    PCB_ANTENNA            2065.425      3460.000      0        "Antenna 13.56 Mhz"                                          
